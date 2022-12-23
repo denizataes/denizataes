@@ -1,8 +1,8 @@
 ### Hello, I am Deniz Ata EŞ 👋
 
 - 🔭 I’m currently working on Teknoritma Inc.
-- 🌱 I’m currently learning Swift.
-- 🤔 I’m looking for help with C#, .NET.
+- 🌱 I’m currently learning Swift | SwiftUI.
+- 🤔 I’m looking for help with Swift.
 - 💬 Ask me about everything.
 - 📫 How to reach me: twitter:@denizataes
 - ❤️💙 I'm a fan of Trabzonspor.
