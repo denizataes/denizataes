@@ -1,8 +1,8 @@
 ### Hello, I am Deniz Ata EŞ 👋
 
 - 🔭 I’m currently working at Teknoritma Inc. 
-- 🌱 I’m currently learning  React-Native.
-- 💬 Ask me about SwiftUI.
+- 🌱 I’m currently learning  Microservice Architecture.
+- 💬 Ask me about SwiftUI & C#.
 - 📫 How to reach me: twitter:@denizataes
 
 
